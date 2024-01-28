@@ -22,10 +22,7 @@
   border-radius: 0.75rem;
 }
 
-.dog-image {
-  height: 100px;
+.profile-img {
   border-radius: 50%;
+    height: 100px;
 }
-/*.niche{
-  height: 30;
-}*/
