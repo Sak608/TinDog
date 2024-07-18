@@ -32,8 +32,13 @@
   justify-content: flex-end;
 }
 
-footer {
+.footer-content {
   width: 100%;
   max-width: 1200px; /* Adjust this value as needed */
+  margin: auto; /* Center the content horizontally */
+}
+
+.footer-col {
+  flex: 1; /* Distribute columns evenly */
 }
 
