@@ -26,3 +26,14 @@
   border-radius: 50%;
     height: 100px;
 }
+/* Adjustments to move footer to right corner */
+.container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer {
+  width: 100%;
+  max-width: 1200px; /* Adjust this value as needed */
+}
+
